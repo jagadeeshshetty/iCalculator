@@ -1,5 +1,5 @@
 {
-  "name": "iCalculator",
+  "name": "jc-calculator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jagadeeshshetty/iCalculator.git"
+    "url": "git+https://github.com/jagadeeshshetty/jc-calculator.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["calculator", "jagadeesh", "jc"],
+  "author": "JC <jagadeesh.cheluvaraj@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jagadeeshshetty/iCalculator/issues"
+    "url": "https://github.com/jagadeeshshetty/jc-calculator/issues"
   },
-  "homepage": "https://github.com/jagadeeshshetty/iCalculator#readme"
+  "homepage": "https://github.com/jagadeeshshetty/jc-calculator#readme"
 }
