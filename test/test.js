@@ -21,9 +21,9 @@ describe('Validate multiply functionality.', () => {
             assert.equal( calculator.multiply(2, 2), 4);
           });
     });
-    describe('Verify 2 x 0 result.', () => {
-        it('should return 0', () => {
-            assert.equal( calculator.multiply(2, 0), 0);
+    describe('Verify -2 x 2 result.', () => {
+        it('should return -4', () => {
+            assert.equal( calculator.multiply(-2, 2), -4);
           });
     });
 });
