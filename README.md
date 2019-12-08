@@ -1,6 +1,12 @@
 
 # Calculator API
 
+1.4.0 *TBD*
+- Add divison support.
+
+1.3.0 *TBD*
+- Add subtrasction support.
+
 1.2.0
 - Test add and multiply feature.
     - Add
