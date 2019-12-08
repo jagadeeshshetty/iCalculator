@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/jagadeeshshetty/jc-calculator/issues"
   },
-  "homepage": "https://github.com/jagadeeshshetty/jc-calculator#readme"
+  "homepage": "https://github.com/jagadeeshshetty/jc-calculator#readme",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
 }
