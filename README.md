@@ -6,8 +6,11 @@
 1.4.0 *TBD*
 - Add divison support.
 
-1.3.0 *TBD*
-- Add subtrasction support.
+1.3.0
+- Add substrasction support.
+    - Subtract
+        - Verify 2 - 2 result.
+        - Verify -2 - 2 result.
 
 1.2.1
 - Add CI build status badge to master branch readme file.

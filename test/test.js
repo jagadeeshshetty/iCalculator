@@ -27,3 +27,16 @@ describe('Validate multiply functionality.', () => {
           });
     });
 });
+
+describe('Validate subtract functionality.', () => {
+    describe('Verify 2 - 2 result.', () => {
+        it('should return 0', () => {
+            assert.equal( calculator.multiply(2, -2), -4);
+          });
+    });
+    describe('Verify -2 - 2 result.', () => {
+        it('should return 4', () => {
+            assert.equal( calculator.multiply(-2, -2), 4);
+          });
+    });
+});
