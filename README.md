@@ -3,8 +3,11 @@
 
 [![Build Status](https://travis-ci.org/jagadeeshshetty/jc-calculator.svg?branch=master)](https://travis-ci.org/jagadeeshshetty/jc-calculator)
 
-1.4.0 *TBD*
+1.4.0
 - Add divison support.
+    - Verify 2 / 2 result.
+    - Verify 2 / 0 result.
+    - Verify 3 / 2 result.
 
 1.3.0
 - Add substrasction support.
